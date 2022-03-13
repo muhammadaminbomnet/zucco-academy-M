@@ -1,0 +1,771 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar1{
+    font-size: 22px;
+    display: flex; 
+}
+.navig{
+    background-color:rgba(48, 46, 46, .2);
+    display: flex;
+    width: 100%;
+    height: 50px;
+    align-items: center;
+    color: white; 
+    justify-content: space-around;
+}
+.img24{
+   position: absolute;
+   margin-top: -20px;
+   right: 20px;
+}
+.navbar1 i{
+    color: white;
+   }
+   .box{
+       margin-left: 20px;
+   }
+   .navbar2 i{
+    font-size: 26px;
+    color: rgb(255, 255, 255);
+    margin-left: 20px;
+   }
+   .navbar1 i{
+       margin-right: 20px;
+   }
+   iframe{
+       margin-left: 5%;
+       margin-bottom: 40px;
+   }
+   .nav1{
+       height: 90px;
+       background-color:rgba(48, 46, 46,.2);
+       display: flex;
+       justify-content: space-around;
+       color: white;
+       position:sticky ;
+       z-index: 99999;
+       top: 0px;
+       
+   }
+   li a i{
+       margin-left: 10px;
+   }
+   h1{
+       margin-top: -35px;
+       margin-left: -25px;
+}
+   li a{
+       font-weight: 200;
+       margin-top: 15px;
+       display: flex;
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       text-decoration: none;
+   }
+   ul li {
+       min-width: 50px;
+       padding: 0px 15px;
+      list-style-type: none;
+   }
+   ul{
+       display: flex;
+       padding-left: 0px;
+   }
+   .uzb{
+       width: 50px;
+       height: 30px;
+       background-color: rgb(70, 69, 69);
+       margin-top: 15px;
+       margin-left: 5px;
+       display: flex;
+       align-items: center;
+       justify-content: space-around;
+       border-radius: 5px;
+       box-shadow: 0px -1px 20px -1px red;
+   }
+   .box4{
+    font-size: 60px;
+    text-align: center;
+    padding-top: 5%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+   }
+   .txt{
+       margin-bottom: 20px;
+       font-size: 60px;
+       text-align: center;
+       margin-top: -70px;
+   }
+   .txt1 {
+       text-align: center;
+       font-size: 24px;
+       margin-top: -40px;
+       color: white;
+    font-family: Arial, Helvetica, sans-serif;
+   }
+   select{
+    width: 260px;
+    height: 47px;
+    border-radius: 13px;
+    border: 1px solid;
+    font-size: 20px;
+    padding-left: 15px;
+    outline: none;
+   }
+   .nav1 a{
+       font-size: 27px;
+       color: #fff;
+   }
+   li a:hover{
+       color: rgb(238, 76, 27);
+       cursor:pointer;
+   }
+li a:hover i{
+    color: rgb(238, 76, 27);
+}
+   input{
+    width: 260px;
+    height: 47px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 18px;
+    outline: none;
+}
+.orta1{
+    display: flex;
+}
+.ota8{
+    display: flex;
+    justify-content: space-around;
+}
+.orta2{
+    width: 260px;
+    height: 47px;
+    border-radius: 13px;
+    background-color: rgb(240, 37, 37);
+    color: white;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.orta1 i{
+margin-left: 20px;
+margin-top: 5px;
+color: black;
+}
+.icon{
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    color: blue;
+    right: 3%;
+    position: absolute;
+}
+.hitt img{
+    width: 120px; 
+    margin: 15px 20px 5px;
+
+}
+.hitt{
+    display: flex;
+    justify-content: center;
+}
+#Online_kurslar{
+    margin-top: -20%;
+}
+.ddd{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    margin-top: 30%;
+}
+.txt4{
+    font-size: 28px;
+}
+.txt5{
+    font-size: 23px;
+}
+.txt6{
+    font-size: 22px;
+    margin-top: 8px;
+}
+.txt3{
+    margin-left: 130px;
+}
+#Kurslar{
+    display: flex;
+    justify-content: center;
+    font-size: 39px;
+    margin:0px 0px 130px;
+
+}
+.ota5{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    justify-content: space-around;
+}
+.ota3{
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 28px;
+}
+.ota4{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    justify-content: space-around;
+}
+.ota6{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    justify-content: space-around;
+}
+.ota7{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    }
+    .box8{
+        width: 390px;
+        height: 450px;
+        position: relative;
+        border: 1px solid rgb(218, 218, 218);  
+    }
+    .rasm{
+        background-color: rgb(243, 243, 243);
+        width: 100%;
+        height: 200px;
+    }
+    .ota3 .box8{
+        margin-left: 3%;
+    }
+    .text{
+        width: 100%;
+        height: 220px;
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        padding-top: 30px;
+        font-size: 17px;
+    }
+    .img11{
+        margin-top:0px;
+        width: 190px;
+    }
+    .img12{
+        margin-top:4px;
+        width: 190px;
+    }
+    .img13{
+        margin-top:13px;
+        width: 190px;
+    }
+    .img14{
+        margin-top:0px;
+        width: 190px;
+    }
+    .img15{
+        margin-top:10px;
+        width: 90%;
+        height: 90%;
+    }
+    .img16{
+        margin-top:8px;
+        width: 130px;
+    }
+    .img17{
+        width: 90%;
+        height: 90%;
+        margin-top: 10px;
+        object-fit: cover;
+    }
+    .box8:hover{
+        background-color: rgb(190, 190, 190);
+        box-shadow:4px 4px 50px 0px rgb(141, 141, 141);
+        transition: 1s all;
+    }
+    .pasti{
+        width:93%;
+        height: 45px;
+        background: linear-gradient(to left,rgb(255, 81, 0),rgb(255, 145, 0));;
+        color: white;
+        border-radius: 10px;
+        font-size: 17px;
+        position: absolute;
+        bottom: 10px;
+        padding:0px 4px;
+        left: 1.5%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .rasm1{
+        background-color: rgb(243, 243, 243);
+        width: 100%;
+        height: 200px;
+    }
+    .text9{
+        width: 100%;
+        height: 220px;
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        padding-top: 30px;
+        font-size: 17px;
+
+    }
+    .pastlar{
+        width: 360px;
+        height: 45px;
+        background-color: red;
+        color: white;
+        font-size: 12px;
+        border-radius: 10px;
+        margin-left: 15px;
+        margin-top: 67px;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+        display: flex;
+        font-size: 17px;
+    }
+    .ota-2{
+        width: 100%;
+        height: 400%;
+        margin-bottom: 200px;
+        background-color: rgb(224, 221, 221);
+    }
+    .iconc{
+        color: red;
+        font-size: 50px;
+    }
+    .txts{
+        font-size: 30px;
+        margin-left: 15px;
+    }
+    .flexs{
+        display: flex;
+        align-items: center;
+        padding: 50px 200px;
+
+    }
+    .ccc{
+        font-size: 29px;
+        text-align: center;
+    }
+    .cccc{
+        font-size: 50px;
+        text-align: center;
+        margin-top: 130px;
+    }
+    .ssss{
+        font-size: 25px;
+        text-align: center;
+    }
+    .imag img{
+        width:500px;
+    }
+    .imag{
+        display: flex;
+        justify-content: space-around;
+    }
+    .pas{
+        width: 100%;
+        height: 70vh;
+        border: 1px solid white; 
+        margin: 100px 0px;
+        background-image: url(../img/download.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+
+    }
+    .pas p{
+        font-size: 50px;
+        text-align: center;
+        margin-top: 120px;
+        color: #fff;
+    }
+    .bor{
+        width: 260px;
+        height: 60px;
+        border: 1px solid;
+        border-radius: 12px;
+        font-size: 25px;
+        margin: auto;
+        margin-top: 70px;
+        background-color: red;
+        color: #fff;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .bor:hover{
+        color: black;
+    }
+    .nav1 img{
+        max-width: 247px;
+        max-height: 53px;
+        margin-top:15px;
+        margin-left: 15px;
+    }
+    .tel2{
+        margin-left: 100px;
+        font-size: 20px;
+    }
+    .icon1{
+        margin-left: 60px;
+        font-size: 20px;
+    }
+    .icon1 i{
+        color: blue;
+    }
+    .iconcs{
+        font-size: 35px;
+        display: flex;
+        margin-left: 20%;
+        margin-top:20px;
+    }
+    .iconcs .eee ,.eeq,.eqq,.qqq{
+        margin-left: 20px;
+        color: rgb(53, 53, 53);
+    }
+    .iconcs .eee:hover{
+        color: rgb(40, 119, 238);
+    }
+    .iconcs .eeq:hover{
+        color: rgb(247, 0, 255);
+    }
+    .iconcs .eqq:hover{
+       color: blue;
+    }
+    .iconcs .qqq:hover{
+        color: red;
+    }
+    .iconcs h4{
+        margin-left: 10px;
+        margin-top: -4px;
+    }
+    .yordam{
+        width: 250px;
+        height: 44px;
+        border-radius: 50px;
+        font-size: 25px;
+        background-color: rgb(99, 177, 241);
+        color: #fff;
+        position: fixed;
+        right: 30px;
+        z-index: 999;
+        top: 90%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .txts a{
+        color: #007bff;
+        text-decoration: none;
+    }
+    .divr{
+        display: flex;
+        justify-content: space-around;
+        font-size: 26px;
+    }
+    .tel2 a{
+        text-decoration: none;
+        color: black;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .yordam i{
+        margin-right: 10px;
+        color: #fff; 
+    }
+    .img19{
+        margin-bottom: 500px;
+    }
+    .passi{
+        display: flex;
+        justify-content: space-around;
+    }
+    .img19{
+        width: 100%;
+        height: 100vh;
+        background-image: url(../img/download\ 2.png);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        opacity: 0.7;
+    }
+    .navbar2 .fa-telegram:hover{
+        color: #007bff;
+    }
+    .navbar2 .fa-instagram:hover{
+        color: purple;
+    }
+    .navbar2 .fa-facebook:hover{
+        color: blue;
+    }
+    .navbar2 .fa-youtube:hover{
+        color: red;
+    }
+      .hover{
+        position: relative;
+        display: inline-block;
+      }
+      .block {
+        display: none;
+        position: absolute;
+        background-color: #f9f9f9;
+        min-width: 160px;
+        top: 50px;
+        right: 6px;
+      }
+      .rower{
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      }
+      
+      .rower:hover {background-color: #a1a1a1}
+      .hover:hover .block {
+        display: block;
+      }
+      .otter{
+          width: 90%;
+          margin: auto;
+      }
+
+
+
+
+
+      @media (max-width:5000px){
+        #iconul li{
+            display: none;
+        }
+
+      }
+
+      @media (max-width:1300px) {
+          li a{
+              font-size: 16px !important;
+          }
+          ul li h1{
+            font-size: 18px;
+            margin-top: -18px;
+            margin-right: 10px;
+        }
+          li{
+              margin-top: 7px;
+          }
+          .uzb{
+              font-size: 12px;
+              height: 25px;
+              width: 40px;
+          }
+          .box4 span{
+              font-size:40px;
+          }
+          .txt{
+              font-size: 40px;
+              margin-top: -45px ;
+          }
+          .txt1{
+              font-size: 20px;
+              margin-top: -30px;
+          }
+          .orta1 select ,.orta2 ,.ota8 input{
+              width:160px;
+              height: 30px;
+              font-size: 17px;
+          }
+          .ota8 input{
+            width:160px;
+            height: 25px;
+            font-size: 17px;
+        }
+          .fa-arrow-alt-circle-left{
+              margin-left: -38px;
+          }
+          .ota7 ,.ota3 ,.ota4 ,.ota5 ,.ota6{
+              flex-wrap: wrap;
+          }
+          .box8{
+              margin-top: 30px;
+          }
+          .pas p{
+              margin-top: 50px;
+          }
+          .passi{
+              display:block;
+          }
+          .passi iframe{
+              width: 90%;
+          }
+          .ota3{
+              margin-left:5px;
+          }
+          .flexs{
+              padding: 0px 0px;
+          }
+        }
+            @media (max-width:1000px) {
+            li a{
+              font-size: 12px !important;
+            }
+            .nav1 img{
+                display: none;
+            }
+            .imag{
+                display: block;
+            }
+            .imag img{
+                width: 90%;
+                margin-left: 5%;
+            }
+        }
+            @media (max-width:800px) {
+                .ota3{
+                    margin-left:25%;
+                }
+                .img24{
+                    display: none;
+                }
+                .txt3{
+                    margin-left: 1%;
+                }
+                .yordam{
+                    display: none;
+                }
+        }
+            @media (max-width:660px) {
+                .ota3{
+                    margin-left:18%;
+                }
+                .divr{
+                    display: block !important;
+                    text-align: center;
+                }
+                .tel2 ,.icon1{
+                    margin-left: 5px;
+                    text-align:center ;
+                }
+                .iconcs{
+                    font-size: 20px;
+                    margin:2px auto;
+                    width: 200px;
+                }
+                .orta1 select ,.orta2 ,.ota8 input{
+                    width:120px;
+                    height: 20px;
+                    font-size: 8px;
+                    border-radius: 8px;
+                }
+                .ota8 input{
+                    height: 15px;
+                }
+                .icon{
+                    font-size: 20px;
+                    right: 1px;
+                }
+                .navbar1{
+                    font-size: 15px;
+                }
+                .navbar2 i{
+                    font-size: 15px;
+                    margin: 0px 5px;
+                }
+                
+        }
+        @media (max-width:580px) {
+            .ota3{
+                margin-left:0px;
+            }
+            #sws{
+                display: none;
+            }
+            .nav1{
+                justify-content: center;
+            }
+            #iconul li{
+                display:flex;
+                margin:-10px 20px;
+            }
+            .nav1{
+                position: relative;
+                height: 50px;
+            }
+            #iconul li a i{
+                font-size: 20px;
+            }
+            #iconul li{
+                min-width: 10px;
+                padding: 0px;
+            }
+            .ota3 .box8{
+                margin: auto;
+            }
+    }
+      
+
+
+
+
+    @media (max-width:500px){
+        .orta1 select ,.orta2 ,.ota8 input{
+            width:250px;
+            margin-bottom: 20px;
+            font-size: 8px;
+            height: 25px;
+        }
+    }
+    @media (max-width:501px){
+        .ota3 .box8{
+            margin: auto;
+        }
+        .ota8{
+            display: block;
+            margin: auto;
+            width: 250px;
+        }
+        .icon{
+            display: none;
+        }
+        .ota8 input{
+            width: 243px;
+        }
+        .img19{
+            margin-bottom: 150px;
+        }
+        #iconul li{
+            margin-left:10px ;
+            margin-right: 10px;
+        }
+        .navig{
+            display: block;
+            min-height: 80px;
+        }
+        .navbar1 ,.navbar2{
+            display: flex;
+            justify-content: center;
+            padding-top: 5px;
+        }
+    }
+    @media (max-width:395px){
+        .hitt{
+            display: none !important;
+        }
+        .ddd{
+            text-align: center;
+        }
+        .box8{
+            width: 200px;
+        }
+    }
